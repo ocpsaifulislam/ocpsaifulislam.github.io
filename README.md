@@ -1,10 +1,10 @@
 # Eliana - React JS Portfolio Template
 #### Preview
 
- - [Demo](https://themewagon.github.io/eliana-react/)
+ - [Demo](https://themewagon.github.io/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/eliana-react/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/)
 
 ## Getting Started
 
